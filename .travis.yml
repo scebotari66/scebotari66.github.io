@@ -1,3 +1,26 @@
+language: go
+
+go:
+    - "1.7.1"
+
+env:
+    global:
+        - SSH_KEY="travis_rsa"
+        - GIT_NAME="Serghei Cebotari"
+        - GIT_EMAIL="cebotariserghei@gmail.com"
+        - SOURCE_DIR="public"
+        - DEPLOY_BRANCH="develop"
+
 before_install:
 - openssl aes-256-cbc -K $encrypted_b15d264760ac_key -iv $encrypted_b15d264760ac_iv
   -in travis_rsa.enc -out travis_rsa -d
+
+before_script:
+    - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
+    - go get -u -v github.com/gohugoio/hugo
+
+script:
+    - hugo
+
+after_success:
+    - ./scripts/deploy.sh
