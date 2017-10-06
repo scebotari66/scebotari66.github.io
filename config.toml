@@ -2,6 +2,7 @@ baseURL = "https://scebotari66.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ghostwriter"
+googleAnalytics = "UA-50770023-9"
 
 [Author]
   name="Serghei Cebotari"
