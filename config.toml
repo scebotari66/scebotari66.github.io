@@ -6,3 +6,9 @@ googleAnalytics = "UA-50770023-9"
 
 [Author]
   name="Serghei Cebotari"
+
+[Params]
+  name="Serghei Cebotari"
+  github="https://github.com/scebotari66"
+  twitter="https://twitter.com/scebotari66"
+  stackoverflow="https://stackoverflow.com/users/384676/scebotari66"
