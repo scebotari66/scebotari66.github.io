@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://scebotari66.github.io/post/double-branch-github-pages-hugo/</loc>
+    <lastmod>2017-10-19T16:03:32+03:00</lastmod>
+  </url>
   
   <url>
     <loc>https://scebotari66.github.io/post/hello-world/</loc>
@@ -13,13 +19,13 @@
   
   <url>
     <loc>https://scebotari66.github.io/</loc>
-    <lastmod>2017-10-13T14:31:06+03:00</lastmod>
+    <lastmod>2017-10-19T16:03:32+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://scebotari66.github.io/post/</loc>
-    <lastmod>2017-10-13T14:31:06+03:00</lastmod>
+    <lastmod>2017-10-19T16:03:32+03:00</lastmod>
     <priority>0</priority>
   </url>
   
