@@ -1,6 +1,6 @@
-language: go
-go:
-- 1.8
+dist: xenial
+sudo: required
+language: generic
 env:
   global:
   - SSH_KEY="travis_rsa"
@@ -12,9 +12,9 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_53c117f4c888_key -iv $encrypted_53c117f4c888_iv
   -in travis_rsa.enc -out travis_rsa -d
 before_script:
-- git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
-- go get -u -v github.com/gohugoio/hugo
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
 script:
 - hugo
 after_success:
-- "./scripts/deploy.sh"
+- ./scripts/deploy.sh
