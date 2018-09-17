@@ -9,7 +9,7 @@ The approach for setting up branches described there is the following:
 $ git clone git@github.">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="generator" content="Hugo 0.31-DEV" />
+        <meta name="generator" content="Hugo 0.48" />
         <meta name="robots" content="index,follow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
@@ -20,14 +20,17 @@ $ git clone git@github.">
     </head>
     <body>
         
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-50770023-9', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-50770023-9', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 
@@ -90,7 +93,7 @@ ga('send', 'pageview');
         <div class="post-content clearfix" itemprop="articleBody">
     
 
-    <p>I&rsquo;ve mentioned in my <a href="/post/hello-world/">&ldquo;Hello World&rdquo;</a> post that I&rsquo;ve followed Roman Coedo&rsquo;s comprehensive <a href="http://rcoedo.com/post/hugo-static-site-generator/">guide</a> for setting up this website. One key element of the setup described in his article is the two branch model: <code>master</code> for the generated content that <a href="https://help.github.com/articles/user-organization-and-project-pages/">will be served</a> by GitHub Pages, and <code>source</code> - for keeping the Hugo source content under version control.</p>
+    <p>I&rsquo;ve mentioned in my <a href="https://scebotari66.github.io/post/hello-world/">&ldquo;Hello World&rdquo;</a> post that I&rsquo;ve followed Roman Coedo&rsquo;s comprehensive <a href="http://rcoedo.com/post/hugo-static-site-generator/">guide</a> for setting up this website. One key element of the setup described in his article is the two branch model: <code>master</code> for the generated content that <a href="https://help.github.com/articles/user-organization-and-project-pages/">will be served</a> by GitHub Pages, and <code>source</code> - for keeping the Hugo source content under version control.</p>
 
 <p>The approach for setting up branches described there is the following:</p>
 
@@ -176,7 +179,7 @@ $ git push --set-upstream origin source
         
     <div class="comments">
         <div id="disqus_thread"></div>
-<script>
+<script type="application/javascript">
     var disqus_config = function () {
     
     
