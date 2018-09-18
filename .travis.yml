@@ -8,6 +8,7 @@ env:
   - GIT_EMAIL="cebotariserghei@gmail.com"
   - SOURCE_DIR="public"
   - DEPLOY_BRANCH="source"
+  - CUSTOM_DOMAIN="sergheicebotari.com"
 before_install:
 - openssl aes-256-cbc -K $encrypted_53c117f4c888_key -iv $encrypted_53c117f4c888_iv
   -in travis_rsa.enc -out travis_rsa -d
