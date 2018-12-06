@@ -1,7 +1,7 @@
 baseURL = "https://scebotari66.github.io/"
 canonifyURLs = true
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "One line at a time"
 theme = "ghostwriter"
 googleAnalytics = "UA-50770023-9"
 disqusShortname = "scebotari66"
