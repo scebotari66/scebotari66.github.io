@@ -13,7 +13,7 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_53c117f4c888_key -iv $encrypted_53c117f4c888_iv
   -in travis_rsa.enc -out travis_rsa -d
 before_script:
-  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-64bit.deb
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
   - sudo dpkg -i /tmp/hugo.deb
 script:
 - hugo
