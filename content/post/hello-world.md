@@ -1,6 +1,7 @@
 ---
 title: "Hello World"
 date: 2017-10-13T14:31:06+03:00
+tags: ["blogging"]
 draft: false
 ---
 The ~~"launch a blog"~~ item has been on my todo list for a very long time. I must admit, way too long. And it would've stayed there longer if I wouldn't have stumbled upon [this post](http://rcoedo.com/post/hugo-static-site-generator/), which talks about setting up a blog using Github Pages, Hugo, and Travis CI. Since I haven't used any of them, and the end result appealed to me, I've decided to give it a try. It worked out pretty good. I've had a few stoppers, but eventually managed to move on.

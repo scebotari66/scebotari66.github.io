@@ -1,6 +1,7 @@
 ---
 title: "Setup a double branch model for GitHub Pages and Hugo"
 date: 2017-10-19T16:03:32+03:00
+tags: ["blogging", "hugo", "git"]
 draft: false
 ---
 
