@@ -6,10 +6,20 @@
     <description>Recent content in Git on One line at a time</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2017 16:03:32 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 13:45:06 +0300</lastBuildDate>
     
 	<atom:link href="https://scebotari66.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Previous branch reference in Git</title>
+      <link>https://scebotari66.github.io/2019/01/27/previous-branch-reference-in-git/</link>
+      <pubDate>Sun, 27 Jan 2019 13:45:06 +0300</pubDate>
+      
+      <guid>https://scebotari66.github.io/2019/01/27/previous-branch-reference-in-git/</guid>
+      <description>Today I want to share a trick I borrowed from someone on Twitch. They started to commit something using Git, and after that used the following command: git checkout -. It became obvious what it does (it resembles cd - very much), but I was surprised to find out about it just now after years of using Git.
+Switching back and forth between branches is very common in Git branching workflows, and is generally performed using the git checkout &amp;lt;branchname&amp;gt; command.</description>
+    </item>
     
     <item>
       <title>Setup a double branch model for GitHub Pages and Hugo</title>
