@@ -14,7 +14,6 @@ disqusShortname = "scebotari66"
   github="https://github.com/scebotari66"
   twitter="https://twitter.com/scebotari66"
   stackoverflow="https://stackoverflow.com/users/384676/scebotari66"
-  dateFormat = "Mon, Jan 2 2006"
 
 [Permalinks]
   post="/:year/:month/:day/:title"
