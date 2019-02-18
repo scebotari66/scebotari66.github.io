@@ -41,5 +41,14 @@ $ git clone git@github.</description>
       <description>The &amp;ldquo;launch a blog&amp;rdquo; item has been on my todo list for a very long time. I must admit, way too long. And it would&amp;rsquo;ve stayed there longer if I wouldn&amp;rsquo;t have stumbled upon this post, which talks about setting up a blog using Github Pages, Hugo, and Travis CI. Since I haven&amp;rsquo;t used any of them, and the end result appealed to me, I&amp;rsquo;ve decided to give it a try.</description>
     </item>
     
+    <item>
+      <title>Now</title>
+      <link>https://scebotari66.github.io/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scebotari66.github.io/now/</guid>
+      <description> What I&amp;rsquo;m doing nowadays  Living in Chisinau, Moldova Diving deep into VueJS Juggling with a lot of ExtJS projects Listening to podcasts while commuting. My favorites: Syntax, Command Line Heroes, Rework, JS Party, Reply All Reading Robert C. Martin Book Series (those that start with &amp;quot;Clean&amp;quot; for now)  Last updated 18 Feb 2019. Inspired by Derek Sivers&amp;rsquo;s /now page movement </description>
+    </item>
+    
   </channel>
 </rss>
