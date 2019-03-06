@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "One line at a time"
 theme = "ghostwriter"
 googleAnalytics = "UA-50770023-9"
-disqusShortname = "scebotari66"
 
 [Author]
   name="Serghei Cebotari"
