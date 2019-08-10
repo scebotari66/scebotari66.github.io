@@ -2,7 +2,6 @@
 title: "Book Notes: Test Driven Development By Example"
 date: 2019-08-10T17:48:06+03:00
 tags: ["book notes", "testing", "tdd"]
-draft: true
 ---
 I have recently finished reading the ["Test Driven Development By Example"](https://www.goodreads.com/book/show/387190.Test_Driven_Development) book by Kent Beck. It has been sitting on my shelf for a very long time. I have bought it after reading about the [#tddisdead](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) "movement". I guess a good ol' Game of Thrones quote is appropriate here:
 
