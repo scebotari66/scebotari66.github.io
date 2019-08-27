@@ -15,3 +15,5 @@ It is very clever to think about these methods in terms of the changes in existi
 For this, I chose to think of `unshift` as [upshift](https://en.wiktionary.org/wiki/upshift) (a shift to a higher gear).
 
 Now it becomes clear that `unshift` (aka *upshift*) (adding elements to the beginning) will "shift" the existing array element's indices **up**, but `shift` (removing an element from the beginning) - **down**.
+
+*Update:* It occurred to me that you can also think of the "shift" of array's length instead of element indices. 👍
