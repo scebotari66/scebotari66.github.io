@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogging on One line at a time</title>
+    <title>blogging on One line at a time</title>
     <link>https://scebotari66.github.io/tags/blogging/</link>
-    <description>Recent content in Blogging on One line at a time</description>
+    <description>Recent content in blogging on One line at a time</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 16:03:32 +0300</lastBuildDate>
@@ -28,7 +28,7 @@ $ git clone git@github.</description>
       <pubDate>Fri, 13 Oct 2017 14:31:06 +0300</pubDate>
       
       <guid>https://scebotari66.github.io/2017/10/13/hello-world/</guid>
-      <description>The &amp;ldquo;launch a blog&amp;rdquo; item has been on my todo list for a very long time. I must admit, way too long. And it would&amp;rsquo;ve stayed there longer if I wouldn&amp;rsquo;t have stumbled upon this post, which talks about setting up a blog using Github Pages, Hugo, and Travis CI. Since I haven&amp;rsquo;t used any of them, and the end result appealed to me, I&amp;rsquo;ve decided to give it a try.</description>
+      <description>The &amp;quot;launch a blog&amp;quot; item has been on my todo list for a very long time. I must admit, way too long. And it would&amp;rsquo;ve stayed there longer if I wouldn&amp;rsquo;t have stumbled upon this post, which talks about setting up a blog using Github Pages, Hugo, and Travis CI. Since I haven&amp;rsquo;t used any of them, and the end result appealed to me, I&amp;rsquo;ve decided to give it a try.</description>
     </item>
     
   </channel>

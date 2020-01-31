@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testing on One line at a time</title>
+    <title>testing on One line at a time</title>
     <link>https://scebotari66.github.io/tags/testing/</link>
-    <description>Recent content in Testing on One line at a time</description>
+    <description>Recent content in testing on One line at a time</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Aug 2019 17:48:06 +0300</lastBuildDate>
