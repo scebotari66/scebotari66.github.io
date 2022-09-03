@@ -16,13 +16,3 @@ googleAnalytics = "UA-50770023-9"
 
 [Permalinks]
   post="/:year/:month/:day/:title"
-
-[[menu.main]]
-  name = "Blog"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "Now"
-  url = "/now/"
-  weight = 2
