@@ -3,9 +3,7 @@ title: "Book Notes: Test Driven Development By Example"
 date: 2019-08-10T17:48:06+03:00
 tags: ["book notes", "testing", "tdd"]
 ---
-I have recently finished reading the ["Test Driven Development By Example"](https://www.goodreads.com/book/show/387190.Test_Driven_Development) book by Kent Beck. It has been sitting on my shelf for a very long time. I have bought it after reading about the [#tddisdead](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) "movement". I guess a good ol' Game of Thrones quote is appropriate here:
-
-> What is dead may never die, but rises again harder and stronger
+I have recently finished reading the ["Test Driven Development By Example"](https://www.goodreads.com/book/show/387190.Test_Driven_Development) book by Kent Beck. It has been sitting on my shelf for a very long time. I have bought it after reading about the [#tddisdead](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) "movement".
 
 The author invites you to code along, which I did. Even if I did not write a single line of Java code in my life, I went to install [IntelliJ IDEA](https://www.jetbrains.com/idea/) and dived in. This was painful at times, but in the end, I managed to keep up. It also forced me to slow down and better "absorb" the presented concepts.
 
