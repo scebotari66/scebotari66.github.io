@@ -21,3 +21,12 @@ privacy:
 
 permalinks:
   post: "/:year/:month/:day/:title"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Uses
+      url: /page/uses/
+      weight: 2
