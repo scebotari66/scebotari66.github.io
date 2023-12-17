@@ -1,0 +1,23 @@
+baseURL: "https://scebotari66.github.io/"
+languageCode: "en-us"
+title: "One line at a time"
+theme: "ghostwriter"
+googleAnalytics: "UA-50770023-9"
+
+author:
+  name: "Serghei Cebotari"
+
+params:
+  name: "Serghei Cebotari"
+  github: "https://github.com/scebotari66"
+  twitter: "https://twitter.com/scebotari66"
+  stackoverflow: "https://stackoverflow.com/users/384676/scebotari66"
+
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+
+permalinks:
+  post: "/:year/:month/:day/:title"
