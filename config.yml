@@ -28,5 +28,5 @@ menu:
       url: /
       weight: 1
     - name: Uses
-      url: /page/uses/
+      url: /uses
       weight: 2
