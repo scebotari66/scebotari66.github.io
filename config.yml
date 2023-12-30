@@ -11,6 +11,7 @@ params:
   github: "https://github.com/scebotari66"
   twitter: "https://twitter.com/scebotari66"
   stackoverflow: "https://stackoverflow.com/users/384676/scebotari66"
+  email: cebotariserghei@gmail.com
 
 permalinks:
   post: "/:year/:month/:day/:title"
